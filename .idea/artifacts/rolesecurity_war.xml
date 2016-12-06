@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rolesecurity:war">
+    <output-path>$PROJECT_DIR$/../rolesecurity/target</output-path>
+    <root id="archive" name="rolesecurity.war">
+      <element id="artifact" artifact-name="rolesecurity:war exploded" />
+    </root>
+  </artifact>
+</component>

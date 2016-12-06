@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:23:53 +0800] "GET /nosecurity/ HTTP/1.1" 200 640 http-bio-8080-exec-1 582
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:23:55 +0800] "GET /nosecurity/GetAllUsers HTTP/1.1" 200 850 http-bio-8080-exec-2 500
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:23:57 +0800] "GET /nosecurity/index.jsp HTTP/1.1" 200 640 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:23:58 +0800] "GET /nosecurity/secure/index.jsp HTTP/1.1" 200 553 http-bio-8080-exec-4 45
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:24:00 +0800] "GET /nosecurity/index.jsp HTTP/1.1" 200 640 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [06/Dec/2016:15:24:00 +0800] "GET /nosecurity/GetAllUsers HTTP/1.1" 200 850 http-bio-8080-exec-6 6

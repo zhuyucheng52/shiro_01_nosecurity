@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rolesecuritywithtags:war">
+    <output-path>$PROJECT_DIR$/../rolesecuritywithtags/target</output-path>
+    <root id="archive" name="rolesecuritywithtags.war">
+      <element id="artifact" artifact-name="rolesecuritywithtags:war exploded" />
+    </root>
+  </artifact>
+</component>
